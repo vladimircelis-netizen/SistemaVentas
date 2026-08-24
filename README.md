@@ -27,3 +27,7 @@ Proyecto en desarrollo.
 ## Próxima funcionalidad
 
 Implementar el módulo de productos.
+
+### Módulo de productos
+
+Permite registrar, consultar, actualizar y eliminar productos.
