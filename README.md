@@ -15,3 +15,7 @@ Proyecto de práctica para aprender desarrollo de software profesional.
 - Gestión de clientes
 - Registro de ventas
 - Control de inventario
+
+### Módulo de clientes
+
+Permite registrar, consultar, actualizar y eliminar clientes.
