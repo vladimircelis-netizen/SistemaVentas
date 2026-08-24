@@ -8,3 +8,10 @@ Proyecto de práctica para aprender desarrollo de software profesional.
 - ASP.NET Core
 - PostgreSQL
 - React
+
+## Funcionalidades
+
+- Gestión de productos
+- Gestión de clientes
+- Registro de ventas
+- Control de inventario
