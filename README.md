@@ -23,3 +23,7 @@ Permite registrar, consultar, actualizar y eliminar clientes..
 ## Estado del proyecto
 
 Proyecto en desarrollo.
+
+## Próxima funcionalidad
+
+Implementar el módulo de productos.
