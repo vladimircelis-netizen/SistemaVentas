@@ -19,3 +19,7 @@ Proyecto de práctica para aprender desarrollo de software profesional.
 ### Módulo de clientes
 
 Permite registrar, consultar, actualizar y eliminar clientes..
+
+## Estado del proyecto
+
+Proyecto en desarrollo.
